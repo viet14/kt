@@ -21,7 +21,7 @@
 }
 
 .view{
-    background-image: url(../assets/image/bg.jpeg);
+    background-image: url(./assets/image/bg.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
